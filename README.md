@@ -1,7 +1,7 @@
-Hi, I'm Carlos 👋<br>
+# Hi, I'm Carlos 👋<br>
 # 💫 About Me:
 
- Soy un Desarrollador Junior apasionado por la tecnología y comprometido con la excelencia. Como una persona autodidacta, responsable y comprometida, me especializo en el diseño e implementación de soluciones tecnológicas
+Soy un Desarrollador Junior apasionado por la tecnología y comprometido con la excelencia. Como una persona autodidacta, responsable y comprometida, me especializo en el diseño e implementación de soluciones tecnológicas
 eficientes y efectivas.
 
 Estoy comprometido con la calidad en todo lo que hago, y siempre estoy dispuesto a dar un paso adelante para asegurarme de que mis proyectos se completen de manera oportuna y efectiva. Me enorgullezco de ser una persona responsable y confiable, y siempre estoy dispuesto a trabajar en equipo para lograr los objetivos comunes. Estoy constantemente buscando oportunidades para mejorar mis habilidades y estar a la vanguardia de las últimas tendencias en tecnología.
@@ -20,7 +20,6 @@ Estoy comprometido con la calidad en todo lo que hago, y siempre estoy dispuesto
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=montanez8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
